@@ -10,5 +10,33 @@
       "mac":"",
       "suggeter":""
     }
-  ]
+  ],
+  "itemList":{
+    "가닛" : {"nesting": True, "code": "A01"}, 
+    "글리트링스톤" : {"nesting": False, "code": "A02"}, 
+    "나뭇가지" : {"nesting": False, "code": "B01"},
+    "눈덩어리" : {"nesting": False, "code": "B02"}, 
+    "다이아몬드" : {"nesting": True, "code": "C01"}, 
+    "당근" : {"nesting": False, "code": "C02"}, 
+    "락토레리움스크랩" : {"nesting": True, "code": "D01"}, 
+    "락토레리움의가루" : {"nesting": True, "code": "D02"}, 
+    "모자" : {"nesting": False, "code": "E01"}, 
+    "밀짚" : {"nesting": False, "code": "E02"}, 
+    "백마의성장액" : {"nesting": True, "code": "F01"}, 
+    "벚꽃잎" : {"nesting": True, "code": "F02"}, 
+    "빛나는락토레리움조각" : {"nesting": True, "code": "F03"}, 
+    "산호" : {"nesting": True, "code": "G01"}, 
+    "승리쿠폰" : {"nesting": True, "code": "G01"}, 
+    "에머랄드" : {"nesting": True, "code": "H01"}, 
+    "오리하루콘스크랩" : {"nesting": True, "code": "H02"}, 
+    "오리하루콘의가루" : {"nesting": True, "code": "H03"}, 
+    "용의영혼석" : {"nesting": False, "code": "H04"}, 
+    "유니콘의성장액" : {"nesting": True, "code": "H05"}, 
+    "잠겨진봉인서" : {"nesting": False, "code": "I01"}, 
+    "주얼팩" : {"nesting": True, "code": "I02"}, 
+    "퍼플메달" : {"nesting": False, "code": "M01"}, 
+    "펜릴의성장액" : {"nesting": True, "code": "M02"}, 
+    "현자의돌" : {"nesting": False, "code": "L01"}, 
+    "흑마의성장액" : {"nesting": True, "code": "L02"}
+  }
 }
