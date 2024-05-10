@@ -24,6 +24,7 @@
     "레저렉트" : {"nesting": "False", "code": "D04"}, 
     "룬문자의단서" : {"nesting": "False", "code": "D03"}, 
     "모자" : {"nesting": "False", "code": "E01"}, 
+    "목걸이" : {"nesting": "False", "code": "E03"}, 
     "밀짚" : {"nesting": "False", "code": "E02"}, 
     "백마의성장액" : {"nesting": "True", "code": "F01"}, 
     "벚꽃잎" : {"nesting": "True", "code": "F02"}, 
@@ -41,6 +42,7 @@
     "유니콘의성장액" : {"nesting": "True", "code": "H05"}, 
     "유니콘의영혼" : {"nesting": "False", "code": "H07"}, 
     "잠겨진봉인서" : {"nesting": "False", "code": "I01"}, 
+    "정교한락토레리움가루" : {"nesting": "True", "code": "I03"}, 
     "주얼팩" : {"nesting": "True", "code": "I02"}, 
     "컨스트레이션" : {"nesting": "False", "code": "K01"}, 
     "크리스마스양말" : {"nesting": "False", "code": "K02"}, 
@@ -48,6 +50,7 @@
     "펜릴의성장액" : {"nesting": "True", "code": "M02"}, 
     "피닉스의영혼" : {"nesting": "False", "code": "M03"}, 
     "할로윈사탕" : {"nesting": "True", "code": "N04"}, 
+    "허리띠" : {"nesting": "False", "code": "N05"}, 
     "현자의돌" : {"nesting": "False", "code": "N01"}, 
     "흑마의성장액" : {"nesting": "True", "code": "N02"},
     "힐링포션박스" : {"nesting": "False", "code": "N03"}
