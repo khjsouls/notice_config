@@ -55,7 +55,7 @@
     "흑마의성장액" : {"nesting": "True", "code": "N02"},
     "힐링포션박스" : {"nesting": "False", "code": "N03"}
   },
-  etcImages:{
+  "etcImages": {
     "0": {"code": "Z0"},
     "1": {"code": "Z1"},
     "2": {"code": "Z2"},
