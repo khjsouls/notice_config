@@ -1,17 +1,17 @@
 {
-  "version":"1.0.0",
-  "active":[
+  "version": "1.0.0",
+  "active": [
     {
-      "email":"khjsoul@naver.com",
-      "level":"4",
-      "createDate":"",
-      "expiryDate":"",
-      "code":"gAAAAABmOddJKOypltBHzvRSxFCcz7CJ6HyzgOFMh9DLldODU76DeCKy99v4DYyju4RzBxW7vLrhfVAg3RFXHMFZljZnIsgqzA==",
-      "mac":"",
-      "suggeter":""
+      "email": "khjsoul@naver.com",
+      "level": "4",
+      "createDate": "",
+      "expiryDate": "",
+      "code": "gAAAAABmOddJKOypltBHzvRSxFCcz7CJ6HyzgOFMh9DLldODU76DeCKy99v4DYyju4RzBxW7vLrhfVAg3RFXHMFZljZnIsgqzA==",
+      "mac": "",
+      "suggeter": ""
     }
   ],
-  "itemList":{
+  "itemList": {
     "가닛" : {"nesting": "True", "code": "A01"}, 
     "글리트링스톤" : {"nesting": "False", "code": "A02"}, 
     "나뭇가지" : {"nesting": "False", "code": "B01"},
@@ -54,5 +54,24 @@
     "현자의돌" : {"nesting": "False", "code": "N01"}, 
     "흑마의성장액" : {"nesting": "True", "code": "N02"},
     "힐링포션박스" : {"nesting": "False", "code": "N03"}
+  },
+  etcImages:{
+    "0": {"code": "Z0"},
+    "1": {"code": "Z1"},
+    "2": {"code": "Z2"},
+    "3": {"code": "Z3"},
+    "4": {"code": "Z4"},
+    "5": {"code": "Z5"},
+    "6": {"code": "Z6"},
+    "7": {"code": "Z7"},
+    "8": {"code": "Z8"},
+    "9": {"code": "Z9"},
+    "엔젤": {"code": "angel"},
+    "쿠폰": {"code": "coupon"},
+    "죽음": {"code": "die"},
+    "피케이": {"code": "hold"},
+    "장비": {"code": "inven"},
+    "자물쇠": {"code": "lock"},
+    "빈칸": {"code": "empty"}
   }
 }
