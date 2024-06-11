@@ -46,6 +46,10 @@
     "디스트럭션흉갑" : {"nesting": "False", "code": "C06"}, 
     "락토레리움스크랩" : {"nesting": "True", "code": "D01"}, 
     "락토레리움의가루" : {"nesting": "True", "code": "D02"}, 
+    "레이크부츠" : {"nesting": "False", "code": "D05"}, 
+    "레이크브레스트" : {"nesting": "False", "code": "D06"}, 
+    "레이크브레이스" : {"nesting": "False", "code": "D07"}, 
+    "레이크팬츠" : {"nesting": "False", "code": "D08"}, 
     "레저렉트" : {"nesting": "False", "code": "D04"}, 
     "룬문자의단서" : {"nesting": "False", "code": "D03"}, 
     "모자" : {"nesting": "False", "code": "E01"}, 
@@ -70,7 +74,8 @@
     "실피드결정체" : {"nesting": "False", "code": "G03"}, 
     "아다만타이트원석" : {"nesting": "False", "code": "H08"}, 
     "에머랄드" : {"nesting": "True", "code": "H01"}, 
-    "엘라임결정체" : {"nesting": "False", "code": "H06"}, 
+    "엘라임결정체" : {"nesting": "False", "code": "H06"},
+    "엠버젬스태프" : {"nesting": "False", "code": "H13"},  
     "오리하루콘스크랩" : {"nesting": "True", "code": "H02"}, 
     "오리하루콘의가루" : {"nesting": "True", "code": "H03"}, 
     "용의영혼석" : {"nesting": "False", "code": "H04"}, 
@@ -83,7 +88,9 @@
     "잠겨진봉인서" : {"nesting": "False", "code": "I01"}, 
     "정교한락토레리움가루" : {"nesting": "True", "code": "I03"}, 
     "주얼팩" : {"nesting": "True", "code": "I02"}, 
+    "천공의활" : {"nesting": "False", "code": "J01"}, 
     "컨스트레이션" : {"nesting": "False", "code": "K01"}, 
+    "케뤼케이온" : {"nesting": "False", "code": "K03"}, 
     "크리스마스양말" : {"nesting": "True", "code": "K02"}, 
     "퍼플메달" : {"nesting": "False", "code": "M01"}, 
     "펜릴의성장액" : {"nesting": "True", "code": "M02"}, 
@@ -92,7 +99,7 @@
     "허리띠" : {"nesting": "False", "code": "N05"}, 
     "현자의돌" : {"nesting": "False", "code": "N01"}, 
     "흑마의성장액" : {"nesting": "True", "code": "N02"},
-    "힐링포션박스" : {"nesting": "False", "code": "N03"}
+    "힐링포션박스" : {"nesting": "False", "code": "N03"},
   },
   "etcImages": {
     "0": {"code": "Z0"},
@@ -113,6 +120,7 @@
     "자물쇠": {"code": "lock"},
     "빈칸": {"code": "empty"},
     "별": {"code": "star"},
-    "서버접종": {"code": "disconnect"}
+    "서버접종": {"code": "disconnect"},
+    "실버": {"code": "silver"},
   }
 }
