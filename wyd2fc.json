@@ -99,7 +99,7 @@
     "허리띠" : {"nesting": "False", "code": "N05"}, 
     "현자의돌" : {"nesting": "False", "code": "N01"}, 
     "흑마의성장액" : {"nesting": "True", "code": "N02"},
-    "힐링포션박스" : {"nesting": "False", "code": "N03"},
+    "힐링포션박스" : {"nesting": "False", "code": "N03"}
   },
   "etcImages": {
     "0": {"code": "Z0"},
@@ -121,6 +121,6 @@
     "빈칸": {"code": "empty"},
     "별": {"code": "star"},
     "서버접종": {"code": "disconnect"},
-    "실버": {"code": "silver"},
+    "실버": {"code": "silver"}
   }
 }
