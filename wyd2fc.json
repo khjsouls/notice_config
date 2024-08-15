@@ -144,6 +144,7 @@
     "빈칸": {"code": "empty"},
     "별": {"code": "star"},
     "서버접종": {"code": "disconnect"},
-    "실버": {"code": "silver"}
+    "실버": {"code": "silver"},
+    "창고": {"code": "storage"}
   }
 }
