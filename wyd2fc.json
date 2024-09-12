@@ -12,25 +12,9 @@
     }, {
       "email": "aksnrjsk4@naver.com",
       "level": "3",
-      "createDate": "2024-07-28",
-      "expiryDate": "2024-08-28",
-      "code": "eNyAC5j21QyHI-27I9fzY_aB_So2KJsgFmcFNgGVFU0=|gAAAAABmpcLL4x1YY2cwCt51VjV3hdZnppQdHs94TF5iE7GP-niMrxFhQbTD5EPCVvHoy_NC2TsXXa1OddYzPtH0PkHBMK5V4w==",
-      "mac": "",
-      "suggeter": ""
-    }, {
-      "email": "aksnrjsk4@naver.com",
-      "level": "3",
       "createDate": "2024-08-26",
       "expiryDate": "2024-09-28",
       "code": "N_X-a28wad_iPbpokV3daHKuxzeoqMBSwrwVMaV2g5s=|gAAAAABmzDff6OBcxMB8xbzRNEUEGpi15hsjFgi_wuJZQH9dhoqZLfjVSmL9TvITSMRPwJVrBVFBxCVScynbLWcp-urj7BXLhA==",
-      "mac": "",
-      "suggeter": ""
-    }, {
-      "email": "aec100@naver.com",
-      "level": "3",
-      "createDate": "2024-08-08",
-      "expiryDate": "2024-09-09",
-      "code": "zwkP1XOTcd7xOV4IjcuZ4oZ4f2E7jjybjIBIlvtJ-XM=|gAAAAABmtH_fmM-MLJYfAgOgRSLFya7klJ16jwFRZ0d-Lgq05Ve1XP76O3_HV594HEL4GpykAXqkenD0-LAxAqkZQKmILoEzNA==",
       "mac": "",
       "suggeter": ""
     }, {
@@ -98,7 +82,8 @@
     "[방어구] 이니세이트장갑" : {"nesting": "False", "code": "H11"}, 
     "[방어구] 이니세이트흉갑" : {"nesting": "False", "code": "H12"}, 
     "[이벤트] 바바리안의증표" : {"nesting": "True", "code": "F13"},
-    "[이벤트] 벚꽃잎" : {"nesting": "True", "code": "F02"}, 
+    "[이벤트] 벚꽃잎" : {"nesting": "True", "code": "F02"},
+    "[이벤트] 송편" : {"nesting": "True", "code": "G09"},
     "[이벤트] 승리쿠폰" : {"nesting": "True", "code": "G02"}, 
     "[이벤트] 얼음조각" : {"nesting": "True", "code": "H14"}, 
     "[이벤트] 크리스마스양말" : {"nesting": "True", "code": "K02"}, 
