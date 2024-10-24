@@ -94,6 +94,7 @@
     "[이벤트] 송편" : {"nesting": "True", "code": "G09"},
     "[이벤트] 승리쿠폰" : {"nesting": "True", "code": "G02"}, 
     "[이벤트] 얼음조각" : {"nesting": "True", "code": "H14"}, 
+    "[이벤트] 저주받은호박" : {"nesting": "True", "code": "I04"},
     "[이벤트] 크리스마스양말" : {"nesting": "True", "code": "K02"}, 
     "[이벤트] 할로윈사탕" : {"nesting": "True", "code": "N04"}, 
     "[조합] 가닛" : {"nesting": "True", "code": "A01"}, 
