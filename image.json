@@ -109,6 +109,7 @@
     "창고": {"code": "storage"},
     "게임_스타트": {"code": "game_start"},
     "게임매니아_스타트": {"code": "gamemania_start"},
-    "온게이트_스타트": {"code": "ongate_start"}
+    "온게이트_스타트": {"code": "ongate_start"},
+    "윈도우_업데이트": {"code": "windows_update"}
   }
 }
