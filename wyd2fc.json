@@ -100,6 +100,7 @@
     "[이벤트] 떡고물" : {"nesting": "True", "code": "C07"},
     "[이벤트] 바바리안의증표" : {"nesting": "True", "code": "F13"},
     "[이벤트] 벚꽃잎" : {"nesting": "True", "code": "F02"},
+    "[이벤트] 세잎클로버" : {"nesting": "True", "code": "G10"},
     "[이벤트] 송편" : {"nesting": "True", "code": "G09"},
     "[이벤트] 승리쿠폰" : {"nesting": "True", "code": "G02"}, 
     "[이벤트] 얼음조각" : {"nesting": "True", "code": "H14"}, 
