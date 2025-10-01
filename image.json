@@ -46,6 +46,7 @@
     "[방어구] 이니세이트부츠" : {"nesting": "False", "code": "H10"}, 
     "[방어구] 이니세이트장갑" : {"nesting": "False", "code": "H11"}, 
     "[방어구] 이니세이트흉갑" : {"nesting": "False", "code": "H12"}, 
+    "[이벤트] 꿀약과" : {"nesting": "True", "code": "A08"},
     "[이벤트] 떡고물" : {"nesting": "True", "code": "C07"},
     "[이벤트] 바바리안의증표" : {"nesting": "True", "code": "F13"},
     "[이벤트] 벚꽃잎" : {"nesting": "True", "code": "F02"},
